@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle id="1" type="Car">
+        <name>Auto</name>
+        <brand>Opel</brand>
+        <fuel>Petrol</fuel>
+        <averageSpeed unit="km/h">80</averageSpeed>
+        <usage>Daily commuting</usage>
+    </vehicle>
+
+    <vehicle id="2" type="Bus">
+        <name>Autobus</name>
+        <lineNumber>105</lineNumber>
+        <ticketType>Monthly pass</ticketType>
+        <averageSpeed unit="km/h">60</averageSpeed>
+        <usage>Travel to university</usage>
+    </vehicle>
+
+    <vehicle id="3" type="Bicycle">
+        <name>Rower</name>
+        <brand>Kross</brand>
+        <gearCount>18</gearCount>
+        <averageSpeed unit="km/h">18</averageSpeed>
+        <usage>Weekend trips</usage>
+    </vehicle>
+</transport>

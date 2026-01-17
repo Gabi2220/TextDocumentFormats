@@ -1,0 +1,16 @@
+{
+  "ticketNumber": "PL-IC-58320-000145",
+  "passengerName": "Jan Kowalski",
+  "from": "Warszawa Centralna",
+  "to": "Kraków Główny",
+  "departureTime": "2026-02-01T10:15:00",
+  "arrivalTime": "2026-02-01T12:45:00",
+  "trainNumber": "IC 58320",
+  "carriage": 6,
+  "seat": "24A",
+  "class": 2,
+  "price": 129.99,
+  "currency": "PLN",
+  "isRefundable": false,
+  "services": ["Wi-Fi", "Power outlet", "Air conditioning"]
+}
